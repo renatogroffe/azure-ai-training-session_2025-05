@@ -26,6 +26,10 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da minha participa�
 
 Além de auxiliar os participantes nas atividades práticas envolvendo o uso de IA no projeto de estudos, pude ainda realizar uma breve apresentação sobre a implementação de práticas de Observabilidade em aplicações que dependam de soluções de Inteligência Artificial via utilização do projeto OpenTelemetry.
 
+Conteúdo sobre OpenTelemetry apresentado durante o evento: https://github.com/renatogroffe/opentelemetry-ias
+
+Exemplo prático que serviu de base para o treinamento: https://github.com/AzureBrasil-cloud/ai-training-session-v2
+
 Deixo aqui meus agradecimentos ao **Rafael Santos**, ao **Talles Valiatti**, ao **Otavio Naimeke**, ao **Bruno Brito**, ao **Carlos Machel**, ao **Luiz Carlos Assis**, ao **Erick Vendramel** e demais envolvidos pela oportunidade e todo o apoio.
 
 ---
