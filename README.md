@@ -30,6 +30,24 @@ Deixo aqui meus agradecimentos ao **Rafael Santos**, ao **Talles Valiatti**, ao 
 
 ---
 
+![Público](img/ai-01.jpg)
+
+![Palestrantes](img/ai-02.jpg)
+
+![Renato palestrando 01](img/ai-08.jpg)
+
+![Renato palestrando 02](img/ai-09.jpg)
+
+![Renato auxiliando participantes 01](img/ai-04.JPG)
+
+![Renato auxiliando participantes 02](img/ai-05.JPG)
+
+![Renato auxiliando participantes 03](img/ai-06.JPG)
+
+![Participantes](img/ai-07.JPG)
+
+![Participantes](img/ai-03.JPG)
+
 ![Banner](img/banner.jpg)
 
 ![Banner Programação](img/banner-programacao.jpg)
