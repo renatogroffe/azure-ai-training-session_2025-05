@@ -24,6 +24,8 @@ Local: **Avenida Presidente Juscelino Kubitscheck, 1909 Torre Sul, 16° andar - 
 
 Acesse este [**link**](/img/) para visualizar todas as fotos da minha participação.
 
+Além de auxiliar os participantes nas atividades práticas envolvendo o uso de IA no projeto de estudos, pude ainda realizar uma breve apresentação sobre a implementação de práticas de Observabilidade em aplicações que dependam de soluções de Inteligência Artificial via utilização do projeto OpenTelemetry.
+
 Deixo aqui meus agradecimentos ao **Rafael Santos**, ao **Talles Valiatti**, ao **Otavio Naimeke**, ao **Bruno Brito**, ao **Carlos Machel**, ao **Luiz Carlos Assis**, ao **Erick Vendramel** e demais envolvidos pela oportunidade e todo o apoio.
 
 ---
